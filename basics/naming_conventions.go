@@ -8,7 +8,7 @@ type Employee struct {
 	Age       int
 }
 
-func main() {
+func demonstrateNamingConventions() {
 	// PascalCase
 	// E.g. ClaculateArea, UserInfo, NewHttpRequest
 
